@@ -14,3 +14,5 @@ i originally made it just for personal use. im publishing it in case anyone want
 ### 🗿🤑🔋🌹AFTER:
 
 ![Untitled Project (4)](https://github.com/user-attachments/assets/c4617b43-43bf-4699-9e93-71150d02cbe5)
+
+seems like balanced, nerf miner
