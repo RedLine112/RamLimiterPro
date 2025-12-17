@@ -4,8 +4,7 @@ i originally made it just for personal use. im publishing it in case anyone want
 
 # here's some images:
 ---
-<img width="587" height="491" alt="Screenshot 2025-12-17 202553" src="https://github.com/user-attachments/assets/1de7fb7e-b6f7-466c-a7e0-472535ea20cf" />
-<img width="596" height="493" alt="image" src="https://github.com/user-attachments/assets/6e79b8fb-4285-4a76-bd1e-095d43aea6d0" />
+<img width="587" height="491" alt="Screenshot 2025-12-17 202553" src="https://github.com/user-attachments/assets/1de7fb7e-b6f7-466c-a7e0-472535ea20cf" /> <img width="596" height="493" alt="image" src="https://github.com/user-attachments/assets/6e79b8fb-4285-4a76-bd1e-095d43aea6d0" />
 
 ------------------------------------------------------------------------------------------------------------
 
